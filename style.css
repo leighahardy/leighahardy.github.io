@@ -1,18 +1,29 @@
 h1 {
-    color:blue;
-    font-family:helvetica;
+    color:black(6, 6, 23);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
     p {
-        color:pink;
+        color:darkgray(65, 62, 67);
         }
         
         h3 {
-        color:blue;
+        color:grey(195, 195, 206);
         }
         body {
-            background-color:rgb(14, 14, 11);
+            background-color:rgb(68, 68, 13);
             }
-            img {
-                border: 5px solid rgb(13, 78, 34);
-                }
-                
+                img {
+                    border: 5px solid rgb(9, 9, 9);
+                    width:50%;
+                    height:50%;
+                    margin: center;
+                    }
+                    
+                h1 {
+                    color:black;
+                    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                    background-color:rgb(57, 55, 55);
+                    border:5px dotted black;
+                    padding:50px;
+                    }
+                    
