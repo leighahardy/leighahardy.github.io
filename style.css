@@ -8,10 +8,7 @@ h1 {
     p {
         color:darkgray(65, 62, 67);
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        .bordered-text {
-            border: 2px solid white; width: 10%; font-style: normal;
-            padding: 10px; /
-         }
+        .center-text {text-align: center;}
         }
         body {
             background-color:rgb(45, 70, 45);
@@ -20,18 +17,12 @@ h1 {
         h3 {
         color:grey(195, 195, 206);
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        .bordered-text {
-            border: 2px solid whitesmoke; width: 10%; font-style: normal;
-            padding: 10px;
-         }
+        .center-text {text-align: center;}
         }
-                img {.centered-image {
-                    display: block;
-                    margin: auto;
-                 }
-                    border: 5px solid rgb(9, 9, 9);
-                    width:50%;
-                    height:50%;
+                img {border: 5px solid rgb(9, 9, 9);
+                    width:70%;
+                    height:20%;
+                    margin-left:200px; margin-right:200px;
                     }
                     
                 h1 {
@@ -44,4 +35,4 @@ h1 {
                         text-align: center;
                      }
                     }
-                    
+                    video {margin-left:400px; margin-right:400px;}
