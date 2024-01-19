@@ -9,7 +9,7 @@ h1 {
         color:darkgray(65, 62, 67);
         font-family:fantasy;
         .center-text {text-align: center;}
-        margin-left:400px; margin-right:400px;
+        margin-left:600px; margin-right:600px;
         .bordered-text 
         {border: 5px solid white (9,9,9);
             padding: 10px;}
