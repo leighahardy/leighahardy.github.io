@@ -7,7 +7,7 @@ h1 {
      }
     p {
         color:darkgray(65, 62, 67);
-        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family:fantasy;
         .center-text {text-align: center;}
         margin-left:400px; margin-right:400px;
         .bordered-text 
