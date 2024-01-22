@@ -1,25 +1,37 @@
 h1 {
-    color:black(6, 6, 23);
+    color:rgb(28, 246, 28) 6, 6, 23);
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
     .center-heading {
         text-align: center;
      }
     p {
-        color:darkgray(65, 62, 67);
-        font-family:fantasy;
+        color: rgb(244, 20, 244);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         .center-text {text-align: center;}
-        margin-left:600px; margin-right:600px;
+        font-size: 50px;
+        margin-left:410px; margin-right:410px;
         .bordered-text 
         {border: 5px solid white (9,9,9);
             padding: 10px;}
     }
         body {
-            background-color:rgb(45, 70, 45);
+            background-color:rgb(236, 244, 26);
             }
+h2 {
+    color:rgb(235, 15, 216);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    background-color:rgb(22, 220, 22);
+    border:5px dotted rgb(26, 33, 213);
+    padding:50px;
+    .center-heading {
+        text-align: center;
+      }
+}
             
         h3 {
-        color:grey(195, 195, 206);
+        color: rgb(15, 237, 15) (195, 195, 206);
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         .center-text {text-align: center;} 
         .bordered-text {
@@ -27,20 +39,25 @@ h1 {
             padding: 10px;
          }
        }
-                img {border: 5px solid rgb(9, 9, 9);
+                img {border: 5px solid rgb(241, 238, 47);
                     width:70%;
                     height:20%;
-                    margin-left:200px; margin-right:200px;
+                    margin-left:220px; margin-right:220px;
                     }
-                    
+                img {border: 5px solid rgb(241, 238, 47);
+                    width:70%;
+                    height:20%;
+                    margin-left:220px; margin-right:220px;}
+                                  
                 h1 {
-                    color:black;
-                    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-                    background-color:rgb(57, 55, 55);
-                    border:5px dotted black;
+                    color:rgb(235, 15, 216);
+                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                    font-size: 100px;
+                    background-color:rgb(22, 220, 22);
+                    border:5px dotted rgb(26, 33, 213);
                     padding:50px;
                     .center-heading {
                         text-align: center;
-                     }
+                      }
                     }
                     video {margin-left:400px; margin-right:400px;}

@@ -1,0 +1,15 @@
+h1 {
+    color:rgb(202, 38, 238);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    background-color:rgb(22, 244, 74);
+    border:5px dotted rgb(42, 10, 225);
+    padding:50px;
+    .center-heading {
+        text-align: center;
+      }
+     }
+     body {
+        background-color:rgb(236, 244, 26);
+        }
+    
