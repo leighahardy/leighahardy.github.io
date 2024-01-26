@@ -13,10 +13,13 @@ h1 {
         margin-right: 2px;  
     }
 
-     body {
-        background-color:rgb(236, 244, 26);
-        }
-    
+
+    body {
+            background-image: url(spongebob_jellyfish_fields_by_supermariospongebob_d9vnqtk-fullview.jpg);
+            background-size: cover; 
+            background-position: center;
+            background-repeat: no-repeat; 
+                }
     .image2 {border: 5px solid rgb(238, 7, 161);
             width:70%;
             height:20%;
